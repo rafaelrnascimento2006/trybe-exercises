@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  color: white;
+  margin-bottom: 3em;
+  padding: 30px;
+  text-align: center;
+}
+
+footer {
+  background-color: black;
+  bottom: 0;
+  height: 2em;
+  position: fixed;
+  width: 100%;
+
+}
+
+h1, h2, h3 {
+  padding: 1em;
+}
+
+header img {
+  border: 10px ridge white;
+    margin: 1em;
+    width: 500px;
+}
+
+nav li {
+  display: inline;
+}
+
+section {
+  margin: 3em;
+}
+
+section img {
+  border: 10px ridge white;
+  margin: 1em;
+  width: 400px;
+}
+
+table {
+  margin: auto;
+  text-align: left;
+}
+
+.link-ref *{
+  display: inline;
+}
+
+.mini-player {
+  bottom: 2em;
+  position: fixed;
+  right: 0;
+}
