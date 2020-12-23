@@ -34,12 +34,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-09-project-playground-functions/tree/rafaelrnascimento2006-project-playground-functions)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
 - [x] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
+- [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [ ] 5-3: _JavaScript - Eventos_
 - [ ] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
