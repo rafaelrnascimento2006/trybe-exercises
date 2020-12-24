@@ -1,0 +1,32 @@
+.button {
+  display: block;
+  width: 10em;
+}
+
+.buttons-grid {
+  display: inline-block;
+}
+
+.text {
+  padding: 4em;
+}
+
+.text-quote {
+  margin: auto;
+  text-align: center;
+  width: 80%;
+}
+
+.text-title {
+  text-align: center;
+}
+
+#buttons-container {
+  text-align: center;
+}
+
+#text-container {
+  margin: auto;
+  margin-top: 4em;
+  width: 90%;
+}
