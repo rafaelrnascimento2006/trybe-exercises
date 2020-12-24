@@ -19,6 +19,8 @@ window.onload = function() {
 
   const myTasks = document.querySelector('.task');
   myTasks.addEventListener('click', setTaskClass);
+
+  addNewTask();
 };
 
 function createDaysOfTheWeek(weekDaysArray) {
@@ -73,11 +75,11 @@ function displayHolidays() {
   };
 };
 
-function createFridayButton(string) {
+function createFridayButton(buttonName) {
   const buttonContainer = document.querySelector('.buttons-container');
   const button = document.createElement('button');
 
-  button.innerHTML = string;
+  button.innerHTML = buttonName;
   button.id = 'btn-friday';
   buttonContainer.appendChild(button);
 };
@@ -88,11 +90,11 @@ function displayFridays() {
 
   for (let key in fridays) {
     if (fridays[key].innerHTML !== 'Sextou!') {
-        fridays[key].innerHTML = 'Sextou!';
+      fridays[key].innerHTML = 'Sextou!';
     } else {
-        fridays[key].innerHTML = fridaysArray[key];
-      };
+      fridays[key].innerHTML = fridaysArray[key];
     };
+  };
 };
 
 function dayMouseOver(day) {
@@ -105,11 +107,11 @@ function dayMouseOut(day) {
   day.target.style.fontSize = '20px';
 };
 
-function taskSpan(string) {
+function taskSpan(taskName) {
   const tasksContainer = document.querySelector('.my-tasks');
   const task = document.createElement('span');
 
-  task.innerHTML = string;
+  task.innerHTML = taskName;
   tasksContainer.appendChild(task);
 };
 
@@ -140,7 +142,36 @@ function setDayColor(day) {
 
   if (selectedTask.length > 0 && dayColor !== taskColor) {
     day.target.style.color = selectedTask[0].style.backgroundColor;
-  } else if (dayColor === taskColor && selectedTask.length !== 0) {
+  }
+  if (dayColor === taskColor && selectedTask.length !== 0) {
     day.target.style.color = 'rgb(119,119,119)';
   };
+};
+
+function addNewTask() {
+  const inputField = document.querySelector('#task-input');
+  const inputButton = document.querySelector('#btn-add');
+  const taskList = document.querySelector('.task-list');
+
+  inputButton.addEventListener('click', function() {
+    if (inputField.value.length > 0) {
+      const listItem = document.createElement('li');
+      listItem.innerText = inputField.value;
+
+      taskList.appendChild(listItem);
+      inputField.value = '';
+    } else {
+      alert('Error: Digite ao menos 1 caractere.');
+    }
+  })
+
+  inputField.addEventListener('keyup', function(event) {
+    if (event.keyCode === 13 && inputField.value.length > 0) {
+      const listItem = document.createElement('li');
+      listItem.innerText = inputField.value;
+
+      taskList.appendChild(listItem);
+      inputField.value = '';
+    }
+  });
 };
