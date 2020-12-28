@@ -8,7 +8,9 @@
 }
 
 .text {
+  margin-top: 1em;
   padding: 4em;
+  text-indent: 2em;
 }
 
 .text-quote {
@@ -27,6 +29,6 @@
 
 #text-container {
   margin: auto;
-  margin-top: 4em;
+  margin-top: 2em;
   width: 90%;
 }

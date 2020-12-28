@@ -42,11 +42,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-5: _[Projeto - Meme Generator](https://github.com/tryber/sd-09-project-meme-generator/tree/rafaelrnascimento2006-project-meme-generator)_
+- [x] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-09-project-pixels-art/tree/rafaelrnascimento2006-project-pixels-art)_
+- [x] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-09-project-todo-list/tree/rafaelrnascimento2006-project-todo-list)_
+- [x] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/tryber/sd-09-project-color-guess/tree/rafaelrnascimento2006-project-color-guess)_
+- [x] 5-7: _[Projeto - Carta Misteriosa](https://github.com/tryber/sd-09-project-mistery-letter/tree/rafaelrnascimento2006-project-mistery-letter)_
 
 ##### Bloco 6: HTML & CSS avançado
 
