@@ -6,13 +6,12 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos doDesenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ##### Bloco 1: Introdução - Unix & Shell
 
 - [x] 1-3: _Unix & Bash - Part 1_
 - [x] 1-4: _Unix & Bash - Part 2_
-- [x] 1-5: _Shell Script_
 
 ##### Bloco 2: Git & GitHub
 
@@ -26,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS](https://github.com/tryber/sd-09-project-lessons-learned/tree/rafaelrnascimento2006-project-lessons-learned)_
+- [x] 3-5: _[Projeto - HTML & CSS](https://github.com/rafaelrnascimento2006/rafaelrnascimento2006.github.io/tree/master/projects/lessons-learned)_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -34,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-09-project-playground-functions/tree/rafaelrnascimento2006-project-playground-functions)_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/rafaelrnascimento2006/rafaelrnascimento2006.github.io/tree/master/projects/playground-functions)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -42,11 +41,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Projeto - Meme Generator](https://github.com/tryber/sd-09-project-meme-generator/tree/rafaelrnascimento2006-project-meme-generator)_
-- [x] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-09-project-pixels-art/tree/rafaelrnascimento2006-project-pixels-art)_
-- [x] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-09-project-todo-list/tree/rafaelrnascimento2006-project-todo-list)_
-- [x] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/tryber/sd-09-project-color-guess/tree/rafaelrnascimento2006-project-color-guess)_
-- [x] 5-7: _[Projeto - Carta Misteriosa](https://github.com/tryber/sd-09-project-mistery-letter/tree/rafaelrnascimento2006-project-mistery-letter)_
+- [x] 5-6: _[Projeto - Arte com Pixels](https://github.com/rafaelrnascimento2006/rafaelrnascimento2006.github.io/tree/master/projects/pixels-art)_
+- [x] 5-7: _[Projeto - Lista de tarefas](https://github.com/rafaelrnascimento2006/rafaelrnascimento2006.github.io/tree/master/projects/todo-list)_
+- [x] 5-5: _[Projeto - Meme Generator](https://github.com/rafaelrnascimento2006/rafaelrnascimento2006.github.io/tree/master/projects/meme-generator)_
+- [x] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/rafaelrnascimento2006/rafaelrnascimento2006.github.io/tree/master/projects/color-guess)_
+- [x] 5-7: _[Projeto - Carta Misteriosa](https://github.com/rafaelrnascimento2006/rafaelrnascimento2006.github.io/tree/master/projects/mistery-letter)_
 
 ##### Bloco 6: HTML & CSS avançado
 
