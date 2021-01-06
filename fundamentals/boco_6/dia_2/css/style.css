@@ -7,5 +7,6 @@ form {
   border: 1px solid #4a4a4a;
   box-shadow: 1px 1px 5px black;
   margin: 0 auto;
+  max-width: 1000px;
   width: 80%;
 }
