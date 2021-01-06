@@ -29,7 +29,7 @@ button:hover {
   padding: 0.5em 0.8em;
 }
 
-input {
+input, textarea {
   margin: 5px;
 }
 
