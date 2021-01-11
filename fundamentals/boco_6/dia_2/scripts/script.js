@@ -37,6 +37,7 @@ function clearForm() {
 }
 
 window.onload = function () {
+  const picker = new Pikaday({ field: document.getElementById('datepicker') });
   const submitButton = document.querySelector('#submit');
   const clearButton = document.querySelector('#clear');
 
