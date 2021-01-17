@@ -91,3 +91,47 @@
    float: unset;
  }
 }
+
+@media screen and (max-width: 450px) {
+  body {
+    padding: 0;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  #aside {
+    display: none;
+  }
+
+  #content {
+    margin: 0;
+    width: 100%;
+  }
+
+  #footer {
+    text-align: center;
+  }
+
+  #header {
+    height: 35px;
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+  }
+
+  #navigation {
+    margin-top: 75px;
+  }
+
+  #navigation ul li {
+    display: block;
+  }
+
+  #navigation li a {
+    float: none;
+  }
+
+}
