@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <body>
+    <div>
+      <span id ="text"></span>
+    </div>
+    <button>click aqui!</button>
+  </body>
+  <script>
+    let counter = 0
+    let span = document.querySelector("span")
+
+    document.querySelector("button")
+    .addEventListener("click", () => span.innerHTML = counter += 1)
+  </script>
+</html>
