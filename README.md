@@ -68,8 +68,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [x] 8-5: _[Projeto - Zoo functions](https://github.com/rafaelrnascimento2006/rafaelrnascimento2006.github.io/tree/master/projects/zoo-functions)_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
